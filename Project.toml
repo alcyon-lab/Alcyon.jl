@@ -1,0 +1,4 @@
+name = "alcyon"
+uuid = "33d4f8ef-daa3-451d-b14c-043671551a0a"
+authors = ["zaf <zafeirakopoulos@gmail.com>"]
+version = "0.1.0"
